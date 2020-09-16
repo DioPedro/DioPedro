@@ -2,14 +2,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/06_dionisio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=06_dionisio)
 
-## I'm a Undergraduate Computer Science student at Universidade de São Paulo (ICMC USP)
+## I'm a Undergraduate Computer Science student at Universidade de São Paulo 
+## (ICMC USP)
 
  - 📚️ I’m currently learning graduation things, 🎮️ gamming development and 💻️ white hacking
  - 🥅 2020 Goals: Survive college without being there with my friends
 
 ### Spotify Playing 🎧
 
-[<img src="https://d10g3n3s.vercel.app/api/spotify-playing" alt="D10g3n3s Spotify Playing" width="350" />](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
+[![Spotify](https://d10g3n3s.vercel.app/api/spotify)](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
 
 ### Connect with me:
 
