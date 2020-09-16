@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://d10g3n3s.vercel.app/api/spotify)](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
+[<img src="https://d10g3n3s.vercel.app/api/spotify-playing" alt="D10g3n3s Spotify Playing" width="350" />](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
 
 ### Connect with me:
 
