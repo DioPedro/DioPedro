@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-l12apg5uy.vercel.app/api/spotify)](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
+[![Spotify](github-spotify-3fgyoonp4.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
 
 ### Connect with me:
 
