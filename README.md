@@ -35,5 +35,5 @@
 
 [twitter]: https://twitter.com/06_dionisio
 [instagram]: https://www.instagram.com/diogenespedro06/
-[facebook]: https://www.facebook.com/diogenes.silvapedros
+[facebook]: https://www.facebook.com/diogenes.silvapedro
 [telegram]: https://t.me/D10g3n3s
