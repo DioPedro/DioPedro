@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align = "left" alt = "D10g3n3s | Twitter" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align = "left" alt = "D10g3n3s | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align = "left" alt = "D10g3n3s | Facebook" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align = "left" alt = "D10g3n3s | Telegram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align = "left" alt = "DioPedro | Twitter" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align = "left" alt = "DioPedro | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align = "left" alt = "DioPedro | Facebook" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align = "left" alt = "DioPedro | Telegram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -36,4 +36,4 @@
 [twitter]: https://twitter.com/06_dionisio
 [instagram]: https://www.instagram.com/diogenespedro06/
 [facebook]: https://www.facebook.com/diogenes.silvapedro
-[telegram]: https://t.me/D10g3n3s
+[telegram]: https://t.me/DioPedroo
