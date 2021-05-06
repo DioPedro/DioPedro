@@ -30,6 +30,9 @@
 <img align ="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />
 <img align ="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 
+<br />
+<br />
+
 <a href="https://github.com/DioPedro/DioPedro">
 <img width="400" height="auto" align="left" src="https://github-readme-stats.vercel.app/api?username=DioPedro&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats" width="400px"/>
 </a>
