@@ -44,6 +44,6 @@
 <br />
 
 [twitter]: https://twitter.com/diopedroo
-[instagram]: https://www.instagram.com/diogenespedro06/
+[instagram]: https://www.instagram.com/diopedroo/
 [facebook]: https://www.facebook.com/diogenes.silvapedro
 [telegram]: https://t.me/DioPedroo
