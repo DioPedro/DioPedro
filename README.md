@@ -43,7 +43,7 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/06_dionisio
+[twitter]: https://twitter.com/diopedroo
 [instagram]: https://www.instagram.com/diogenespedro06/
 [facebook]: https://www.facebook.com/diogenes.silvapedro
 [telegram]: https://t.me/DioPedroo
