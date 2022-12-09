@@ -6,7 +6,7 @@
 ## (ICMC USP)
 
  - 📚️ I’m currently learning graduation things, 🎮️ gamming development and 💻️ white hacking
- - 🥅 2021 Goals: Survive college without being there with my friends
+ - 🥅 2023 Goals: Survive college without being there with my friends
 
 ### Spotify Playing 🎧
 
