@@ -5,9 +5,6 @@
 ## I'm a Undergraduate Computer Science student at Universidade de São Paulo 
 ## (ICMC USP)
 
- - 📚️ I’m currently learning graduation things
- - 🥅 2024 Goals: Finish a personal project and find a place to do an internship
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://github-spotify.d10g3n3s.vercel.app/api/spotify)](https://open.spotify.com/user/22ecyqep7s6sce4dmw6qaiblq)
